@@ -50,9 +50,13 @@ Category Performance
 - Business = 83.5% 
 
 ## Key Observations
+
 -- Efficient Fine-tuning: Achieved high accuracy with only 3,000 samples and 2 epochs
+
 -- Sports Dominance: Clear vocabulary patterns yielded highest performance (93% F1)
+
 -- Business Challenges: Slight confusion with World category in economic contexts
+
 -- Production Ready: <100ms inference suitable for real-time applications
 
 * Running on public URL: https://b3793e1ba7d8d377f1.gradio.live
