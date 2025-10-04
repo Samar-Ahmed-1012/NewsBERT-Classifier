@@ -26,25 +26,28 @@ Deployment
 - Access: Public URL sharing capability
 
 📊 Key Results
+
 Performance Metrics
+
 Metric	Score
-Accuracy = 85-90% | 
 
-F1-Score = 	86-89% | 
+- Accuracy = 85-90% 
 
-Inference =  Speed	< 100ms
+- F1-Score = 	86-89% 
+
+- Inference =  Speed	< 100ms
 
 Category Performance
 
-Category	F1-Score | 
+- Category	F1-Score 
 
-Sports = 93.0% | 
+- Sports = 93.0% 
 
-Sci/Tech = 87.5% | 
+- Sci/Tech = 87.5% 
 
-World = 86.5% | 
+- World = 86.5% 
 
-Business = 83.5% | 
+- Business = 83.5% 
 
 ## Key Observations
 -- Efficient Fine-tuning: Achieved high accuracy with only 3,000 samples and 2 epochs
