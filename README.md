@@ -3,10 +3,10 @@ A fine-tuned BERT model that automatically categorizes news headlines into 4 top
 
 Automated news categorization system using fine-tuned BERT transformer for real-time topic classification.
 
-📋 Objective
+## Objective
 Develop a high-accuracy classification system that categorizes news headlines into four topics: World, Sports, Business, and Sci/Tech for efficient content organization and analysis.
 
-🔬 Methodology
+## Methodology
 
 Architecture
 - Base Model: BERT-base-uncased
@@ -28,18 +28,18 @@ Deployment
 📊 Key Results
 Performance Metrics
 Metric	Score
-Accuracy = 85-90%
-F1-Score = 	86-89%
+Accuracy = 85-90% | 
+F1-Score = 	86-89% | 
 Inference =  Speed	< 100ms
 
 Category Performance
-Category	F1-Score
-Sports = 93.0%
-Sci/Tech = 87.5%
-World = 86.5%
-Business = 83.5%
+Category	F1-Score | 
+Sports = 93.0% | 
+Sci/Tech = 87.5% | 
+World = 86.5% | 
+Business = 83.5% | 
 
-#Key Observations
+## Key Observations
 -- Efficient Fine-tuning: Achieved high accuracy with only 3,000 samples and 2 epochs
 -- Sports Dominance: Clear vocabulary patterns yielded highest performance (93% F1)
 -- Business Challenges: Slight confusion with World category in economic contexts
