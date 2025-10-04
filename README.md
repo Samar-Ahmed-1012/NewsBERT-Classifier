@@ -29,14 +29,21 @@ Deployment
 Performance Metrics
 Metric	Score
 Accuracy = 85-90% | 
+
 F1-Score = 	86-89% | 
+
 Inference =  Speed	< 100ms
 
 Category Performance
+
 Category	F1-Score | 
+
 Sports = 93.0% | 
+
 Sci/Tech = 87.5% | 
+
 World = 86.5% | 
+
 Business = 83.5% | 
 
 ## Key Observations
